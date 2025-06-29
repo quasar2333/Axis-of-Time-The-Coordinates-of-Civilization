@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "夏", "start_year": -2070, "end_year": -1600},
+  {"id": 2, "name": "商", "start_year": -1600, "end_year": -1046},
+  {"id": 3, "name": "周", "start_year": -1046, "end_year": -256},
+  {"id": 4, "name": "秦", "start_year": -221, "end_year": -206},
+  {"id": 5, "name": "汉", "start_year": -206, "end_year": 220}
+]
